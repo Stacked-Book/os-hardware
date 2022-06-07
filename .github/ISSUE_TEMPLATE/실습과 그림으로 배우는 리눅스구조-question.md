@@ -1,6 +1,6 @@
 ---
 name: 'Issue: 실습과 그림으로 배우는 리눅스구조'
-about: question
+about: 실습과 그림으로 배우는 리눅스구조 질문 
 title: ''
 labels: ''
 assignees: ''
